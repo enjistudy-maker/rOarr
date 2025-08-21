@@ -2,7 +2,7 @@ import React from "react";
 import Navbar from "./components/Navbar";
 import Banner from "./components/Banner";
 import Projects from "./components/Projects";
-import Skills from "./components/Skills"; // 👈 tambah
+import Skills from "./components/Skills"; 
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import "./styles/enjong.css";
@@ -13,7 +13,7 @@ function App() {
       <Navbar />
       <Banner />
       <Projects />
-      <Skills />   {/* 👈 bagian baru */}
+      <Skills />   
       <Contact />
       <Footer />
     </>
