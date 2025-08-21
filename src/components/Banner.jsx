@@ -7,10 +7,10 @@ export default function Banner() {
       <h1>HELLOOWW!! ꒰ᐢ. .ᐢ꒱ WELCOME TO ENJIY'S PAGE</h1>
       <p>Helloo guys, let me introduce myself, my full name is "Enggita Septiana Nadeak", you can call me Enji. I'm fifteen years old. I have skill in designing, my hobby is listening to music, and my favorite artist is Sunwoo from TheBoyz."</p>
       <div className="cta">
-        <a href="https://instagram.com/USERNAME" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.instagram.com/chemys.jie?igsh=OWpqbTA2bmp6bnc4" target="_blank" rel="noopener noreferrer">
           <button>Instagram</button>
         </a>
-        <a href="https://open.spotify.com/USER_SPOTIFY" target="_blank" rel="noopener noreferrer">
+        <a href="https://open.spotify.com/user/31dx7bdc5jwusxezm6yl5n4zwjwu?si=QA_algzrRNqw2376_ZtZyg" target="_blank" rel="noopener noreferrer">
           <button>Spotify</button>
         </a>
       </div>
