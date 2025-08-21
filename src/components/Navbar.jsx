@@ -4,7 +4,7 @@ export default function Navbar() {
   return (
     <nav className="navigasi clearfix">
       {/* plain text, bukan link */}
-      <div className="logo">Portfolio</div>  
+      <div className="logo">PORTOFOLIO</div>  
 
       <div className="menu">
         <ul>
