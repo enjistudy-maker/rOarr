@@ -7,7 +7,7 @@ export default function Footer() {
 
   return (
     <footer className="footer">
-      <p>© 2025 Enji. All rights reserved.</p>
+      <p>© 2025 Enggita Septiana Nadeak.</p>
       <button onClick={sayHello}>Say Hello</button>
     </footer>
   )
